@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1351951580 source:c:\users\fabrizio\desktop\cours c\apocalypse\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1352052787 source:c:\users\fabrizio\.p4qt\desktop\cours c\apocalypse\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

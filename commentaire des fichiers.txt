@@ -1,0 +1,25 @@
+perso =
+1.Nom
+2.Vie
+3.Mana
+4.Atq
+5.Def
+6.XP
+7.Lvl
+8.Or
+9.Ville
+
+monstres =
+1.Nom
+2.Vie
+3.Atq
+4.Def
+5.Xp donner
+6.Description
+
+objet =
+1.Nom
+2.Type
+3.Attribut(Dépend du type)
+4.Description
+5.Prix(Or)

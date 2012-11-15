@@ -1,0 +1,7 @@
+Perso:Male-Femme
+But:Vaincre le boss de fin (démon puissant ayant tuer les parent du héros)
+Premiére ville dispo: Yamville.
+Yamville:
+1 magasin d'armes + objets(potion etc..)
+1Quéte(systéme a faire,tuer x monstres) 
+grotte(avec plusieurs niveau et plusieur monstres)
